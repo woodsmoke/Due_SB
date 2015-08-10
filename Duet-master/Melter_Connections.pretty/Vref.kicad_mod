@@ -1,0 +1,9 @@
+(module Vref (layer F.Cu) (tedit 556AE59A)
+  (fp_text reference J18 (at 0 -1.00076) (layer F.SilkS) hide
+    (effects (font (size 0.59944 0.59944) (thickness 0.14986)))
+  )
+  (fp_text value "E0 VREF" (at 2.55484 -0.39832) (layer F.SilkS)
+    (effects (font (size 0.59944 0.59944) (thickness 0.12)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.8001 0.8001) (drill 0.39878) (layers *.Cu *.Mask F.SilkS))
+)

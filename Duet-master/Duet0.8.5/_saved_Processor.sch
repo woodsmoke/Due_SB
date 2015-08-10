@@ -1,0 +1,1307 @@
+EESchema Schematic File Version 2
+LIBS:Duet0.85-rescue
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:FE
+LIBS:Duet0.85-cache
+EELAYER 25 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 7 7
+Title "Duet"
+Date "7 jul 2015"
+Rev "0.85"
+Comp "Think3DPrint3D, RepRapPro"
+Comment1 "CERN OSH License 1.2"
+Comment2 "http://www.ohwr.org/attachments/2388/cern_ohl_v_1_2.txt"
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	9750 11600 9650 11600
+Wire Wire Line
+	10350 11750 10250 11750
+Wire Wire Line
+	14150 11650 14150 11700
+Wire Wire Line
+	14150 11700 14250 11700
+Connection ~ 9200 5150
+Wire Wire Line
+	9350 5150 8350 5150
+Wire Wire Line
+	9350 5150 9350 4450
+Wire Wire Line
+	9350 4450 9100 4450
+Connection ~ 8350 4450
+Wire Wire Line
+	8500 4450 8350 4450
+Connection ~ 9200 4550
+Wire Wire Line
+	9200 4750 9200 4300
+Connection ~ 8300 3700
+Wire Wire Line
+	8300 3700 8300 3550
+Wire Wire Line
+	12250 13900 12250 14000
+Connection ~ 15550 12600
+Wire Wire Line
+	13750 12600 16000 12600
+Wire Wire Line
+	15550 12000 15550 12200
+Connection ~ 15350 13450
+Wire Wire Line
+	15350 13600 15350 13450
+Connection ~ 15350 12750
+Connection ~ 15350 12600
+Wire Wire Line
+	15350 12600 15350 12750
+Connection ~ 15350 5750
+Wire Wire Line
+	15350 5700 15350 5750
+Connection ~ 15350 6300
+Wire Wire Line
+	15350 6300 15350 6350
+Wire Wire Line
+	15350 6350 13750 6350
+Connection ~ 9800 12750
+Wire Wire Line
+	9800 12850 9800 12750
+Connection ~ 9750 13150
+Wire Wire Line
+	9750 13300 9750 13150
+Connection ~ 12000 14250
+Connection ~ 9200 7650
+Wire Wire Line
+	8150 7650 9950 7650
+Connection ~ 9700 7650
+Connection ~ 9950 8250
+Wire Wire Line
+	9950 8150 9950 8250
+Connection ~ 10850 2900
+Wire Wire Line
+	10850 2900 10850 3500
+Connection ~ 11150 2900
+Wire Wire Line
+	11150 2900 11150 3500
+Connection ~ 11450 2900
+Wire Wire Line
+	11450 2900 11450 3500
+Connection ~ 10250 2900
+Wire Wire Line
+	12150 3500 12150 2900
+Wire Wire Line
+	12150 2900 6100 2900
+Connection ~ 7050 3700
+Wire Wire Line
+	7050 3700 7050 3850
+Connection ~ 6350 3700
+Wire Wire Line
+	6100 3700 6100 3550
+Connection ~ 7400 3700
+Wire Wire Line
+	6650 3700 6650 3550
+Connection ~ 7700 3700
+Connection ~ 9350 3700
+Connection ~ 9950 3700
+Wire Wire Line
+	9650 3700 9650 3550
+Connection ~ 9650 2900
+Wire Wire Line
+	9950 2900 9950 3350
+Connection ~ 8550 2900
+Wire Wire Line
+	9350 2900 9350 3350
+Connection ~ 6600 2900
+Wire Wire Line
+	7650 2900 7650 3050
+Wire Wire Line
+	8700 3300 8300 3300
+Connection ~ 6650 3300
+Wire Wire Line
+	6750 3300 6350 3300
+Connection ~ 6350 3300
+Wire Wire Line
+	6400 3050 6350 3050
+Wire Wire Line
+	6350 3050 6350 3350
+Connection ~ 13600 2850
+Wire Wire Line
+	13600 2850 13600 2900
+Connection ~ 14000 2850
+Wire Wire Line
+	14000 2850 14000 2900
+Connection ~ 14750 2850
+Wire Wire Line
+	15000 2900 15000 2850
+Wire Wire Line
+	15000 2850 12300 2850
+Connection ~ 14750 3150
+Wire Wire Line
+	15000 3100 15000 3150
+Wire Wire Line
+	15000 3150 13600 3150
+Connection ~ 14400 3150
+Wire Wire Line
+	14500 3150 14500 3100
+Connection ~ 14000 3150
+Wire Wire Line
+	13800 3100 13800 3150
+Wire Wire Line
+	13600 3150 13600 3100
+Wire Wire Line
+	13300 3150 12500 3150
+Wire Wire Line
+	13300 3150 13300 2250
+Wire Wire Line
+	13000 2550 13000 2650
+Wire Wire Line
+	13000 2650 12800 2650
+Wire Wire Line
+	12800 2650 12800 2550
+Connection ~ 12800 2250
+Wire Wire Line
+	12800 2250 12800 2350
+Wire Wire Line
+	12500 3150 12500 3500
+Wire Wire Line
+	13250 3350 13250 3500
+Connection ~ 12950 3350
+Wire Wire Line
+	13100 3350 13100 3500
+Connection ~ 12650 3350
+Wire Wire Line
+	12800 3500 12800 3350
+Wire Wire Line
+	10350 8300 10050 8300
+Wire Wire Line
+	10050 8300 10050 8550
+Wire Wire Line
+	10050 8550 9150 8550
+Wire Wire Line
+	10350 8150 10200 8150
+Wire Wire Line
+	10200 8150 10200 8350
+Wire Wire Line
+	10200 8350 9150 8350
+Wire Wire Line
+	10350 8450 9150 8450
+Wire Wire Line
+	13750 13200 13950 13200
+Wire Wire Line
+	13950 13200 13950 13250
+Wire Wire Line
+	13950 12500 13950 12450
+Wire Wire Line
+	13950 12450 13750 12450
+Connection ~ 11700 14250
+Wire Wire Line
+	11700 14250 11700 13900
+Connection ~ 11550 14250
+Wire Wire Line
+	11550 14250 11550 13900
+Connection ~ 11250 14250
+Wire Wire Line
+	11250 14250 11250 13900
+Wire Wire Line
+	9200 5150 9200 4950
+Connection ~ 8100 8650
+Wire Wire Line
+	8100 8700 8100 8350
+Wire Wire Line
+	8150 8450 8100 8450
+Wire Wire Line
+	8100 8350 8150 8350
+Wire Wire Line
+	9200 8850 9200 8650
+Wire Wire Line
+	8800 5150 8800 5350
+Connection ~ 8800 5150
+Wire Wire Line
+	8100 8650 8150 8650
+Connection ~ 8100 8450
+Wire Wire Line
+	11100 14250 11100 13900
+Wire Wire Line
+	8350 5150 8350 4950
+Wire Wire Line
+	11600 14250 11600 14450
+Wire Wire Line
+	11400 14250 11400 13900
+Connection ~ 11400 14250
+Wire Wire Line
+	12000 13900 12000 14250
+Connection ~ 11600 14250
+Wire Wire Line
+	11850 14250 11850 13900
+Connection ~ 11850 14250
+Wire Wire Line
+	9200 4300 10350 4300
+Wire Wire Line
+	9150 8250 10100 8250
+Wire Wire Line
+	10100 8250 10100 8600
+Wire Wire Line
+	10100 8600 10350 8600
+Wire Wire Line
+	9200 8850 9150 8850
+Wire Wire Line
+	12650 3500 12650 3350
+Wire Wire Line
+	12950 3350 12950 3500
+Connection ~ 12800 3350
+Connection ~ 13100 3350
+Wire Notes Line
+	7300 3750 7300 2850
+Wire Notes Line
+	6300 2850 6300 3750
+Connection ~ 13250 3350
+Wire Wire Line
+	12300 3500 12300 2250
+Wire Wire Line
+	12300 2250 12500 2250
+Wire Wire Line
+	13300 2250 12700 2250
+Wire Wire Line
+	13000 2250 13000 2350
+Connection ~ 13000 2250
+Wire Wire Line
+	12900 2750 12900 2650
+Connection ~ 12900 2650
+Connection ~ 12300 2850
+Wire Wire Line
+	14500 2850 14500 2900
+Wire Wire Line
+	14000 3150 14000 3100
+Connection ~ 13800 3150
+Wire Wire Line
+	14400 3150 14400 3250
+Wire Wire Line
+	14750 3150 14750 3100
+Connection ~ 14500 3150
+Wire Wire Line
+	14750 2850 14750 2900
+Connection ~ 14500 2850
+Wire Wire Line
+	13800 2850 13800 2900
+Connection ~ 13800 2850
+Wire Wire Line
+	12650 3350 13450 3350
+Wire Wire Line
+	13450 3350 13450 2850
+Connection ~ 13450 2850
+Wire Wire Line
+	6650 3350 6650 3300
+Wire Notes Line
+	9100 3750 9100 2850
+Wire Wire Line
+	8350 3050 8300 3050
+Connection ~ 7400 3300
+Wire Wire Line
+	7450 3050 7400 3050
+Wire Wire Line
+	7400 3050 7400 3350
+Wire Notes Line
+	8200 3750 8200 2850
+Wire Wire Line
+	7700 3350 7700 3300
+Wire Wire Line
+	7800 3300 7400 3300
+Connection ~ 7700 3300
+Wire Wire Line
+	5850 3350 5850 3300
+Wire Wire Line
+	5850 3300 6100 3300
+Wire Wire Line
+	6100 2900 6100 3350
+Wire Wire Line
+	6600 3050 6600 2900
+Connection ~ 6100 3300
+Wire Wire Line
+	8550 2900 8550 3050
+Connection ~ 7650 2900
+Wire Wire Line
+	9650 2900 9650 3350
+Connection ~ 9350 2900
+Wire Wire Line
+	10250 2900 10250 3350
+Connection ~ 9950 2900
+Wire Wire Line
+	10250 3550 10250 3700
+Wire Wire Line
+	9950 3550 9950 3700
+Wire Wire Line
+	9350 3700 9350 3550
+Connection ~ 9650 3700
+Wire Wire Line
+	7700 3700 7700 3550
+Wire Wire Line
+	7400 3700 7400 3550
+Wire Wire Line
+	6350 3700 6350 3550
+Connection ~ 6650 3700
+Wire Wire Line
+	10250 3700 5850 3700
+Wire Wire Line
+	5850 3700 5850 3550
+Connection ~ 6100 3700
+Wire Wire Line
+	11550 2900 11550 2650
+Connection ~ 11550 2900
+Wire Wire Line
+	11300 2900 11300 3500
+Connection ~ 11300 2900
+Wire Wire Line
+	11000 2900 11000 3500
+Connection ~ 11000 2900
+Wire Wire Line
+	9200 8150 9200 8550
+Connection ~ 9200 8550
+Wire Wire Line
+	9700 8150 9700 8350
+Connection ~ 9700 8350
+Wire Wire Line
+	9950 7650 9950 7750
+Wire Wire Line
+	9700 7750 9700 7650
+Wire Wire Line
+	9200 7650 9200 7750
+Wire Wire Line
+	8150 8250 8150 7550
+Connection ~ 8150 7650
+Wire Wire Line
+	9600 13150 9800 13150
+Wire Wire Line
+	9800 13150 9800 13050
+Wire Wire Line
+	10350 12750 9600 12750
+Wire Wire Line
+	15300 6250 15300 6300
+Wire Wire Line
+	15300 6300 15400 6300
+Wire Wire Line
+	15400 6300 15400 6250
+Wire Wire Line
+	15400 5750 15300 5750
+Wire Wire Line
+	15300 12850 15300 12750
+Wire Wire Line
+	15300 12750 15400 12750
+Wire Wire Line
+	15400 12750 15400 12850
+Wire Wire Line
+	15300 13350 15300 13450
+Wire Wire Line
+	15300 13450 15400 13450
+Wire Wire Line
+	15400 13450 15400 13350
+Wire Wire Line
+	15550 12600 15550 12400
+Wire Wire Line
+	9200 8650 9150 8650
+Wire Wire Line
+	12250 14200 12250 14250
+Wire Wire Line
+	12500 13950 12250 13950
+Connection ~ 12250 13950
+Wire Wire Line
+	8300 3050 8300 3350
+Connection ~ 8300 3300
+Wire Wire Line
+	9100 4550 9200 4550
+Wire Wire Line
+	10350 4150 8350 4150
+Wire Wire Line
+	8350 4150 8350 4750
+Wire Wire Line
+	8500 4550 8500 5150
+Connection ~ 8500 5150
+Wire Wire Line
+	10750 14200 10750 14250
+Wire Wire Line
+	10750 14250 12250 14250
+Connection ~ 11100 14250
+Wire Wire Line
+	13750 11450 14350 11450
+Connection ~ 14150 11450
+Wire Wire Line
+	10350 11600 10250 11600
+Wire Wire Line
+	9750 11750 9650 11750
+$Comp
+L R R108
+U 1 1 53B5ADFC
+P 10000 11750
+F 0 "R108" V 10080 11750 50  0000 C CNN
+F 1 "10K" V 10000 11750 50  0000 C CNN
+F 2 "Melter_Connections:10k_R_0603" H 10000 11750 60  0001 C CNN
+F 3 "" H 10000 11750 60  0001 C CNN
+	1    10000 11750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R107
+U 1 1 53B5ADD7
+P 10000 11600
+F 0 "R107" V 10080 11600 50  0000 C CNN
+F 1 "10K" V 10000 11600 50  0000 C CNN
+F 2 "Melter_Connections:10k_R_0603" H 10000 11600 60  0001 C CNN
+F 3 "" H 10000 11600 60  0001 C CNN
+	1    10000 11600
+	0    -1   -1   0   
+$EndComp
+Text GLabel 13750 7850 2    60   Output ~ 0
+PC10
+$Comp
+L R R109
+U 1 1 53B07513
+P 14600 11450
+F 0 "R109" V 14680 11450 50  0000 C CNN
+F 1 "10K" V 14600 11450 50  0000 C CNN
+F 2 "Melter_Connections:10k_R_0603" H 14600 11450 60  0001 C CNN
+F 3 "" H 14600 11450 60  0001 C CNN
+	1    14600 11450
+	0    -1   -1   0   
+$EndComp
+Text GLabel 14250 11700 2    60   Input ~ 0
+VSSA
+$Comp
+L Csmall C88
+U 1 1 53B059FA
+P 14150 11550
+F 0 "C88" H 14175 11600 30  0000 L CNN
+F 1 "10nF" H 14175 11500 30  0000 L CNN
+F 2 "Melter_Connections:10nf_capacitor" H 14150 11550 60  0001 C CNN
+F 3 "" H 14150 11550 60  0001 C CNN
+	1    14150 11550
+	1    0    0    1   
+$EndComp
+$Comp
+L TP J24
+U 1 1 53B053D8
+P 10750 14200
+F 0 "J24" H 10850 14450 60  0000 C CNN
+F 1 "GND" H 10550 14450 60  0000 C CNN
+F 2 "" H 10750 14200 60  0001 C CNN
+F 3 "" H 10750 14200 60  0001 C CNN
+	1    10750 14200
+	1    0    0    -1  
+$EndComp
+Text GLabel 10350 7100 0    39   Input ~ 0
+PS_ON_CONTROL
+$Comp
+L CRYSTAL_4PIN X2
+U 1 1 51758028
+P 8800 4500
+F 0 "X2" H 8800 4750 60  0000 C CNN
+F 1 "CRYSTAL_4PIN" H 8800 4350 60  0000 C CNN
+F 2 "Melter_Connections:Xtal_5x3.2" H 8800 4500 60  0001 C CNN
+F 3 "" H 8800 4500 60  0001 C CNN
+F 4 "12MHz" H 8800 4650 60  0000 C CNN "Frequency"
+	1    8800 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L ATSAM3X8E U12
+U 1 1 517573A8
+P 12050 8950
+F 0 "U12" H 12050 9600 60  0000 C CNN
+F 1 "ATSAM3X8E" H 12050 9450 60  0000 C CNN
+F 2 "LQFP100" H 12050 9300 60  0000 C CNN
+F 3 "" H 12050 8950 60  0001 C CNN
+	1    12050 8950
+	1    0    0    -1  
+$EndComp
+Text Notes 14250 12600 0    60   ~ 0
+Integrates a permanent\n~15K pullup resistor
+NoConn ~ 13750 4250
+NoConn ~ 10350 4550
+NoConn ~ 10350 8750
+Text GLabel 10350 8900 0    60   Input ~ 0
+UFAULT
+Text GLabel 13750 6650 2    50   BiDi ~ 0
+UOTGVBOF
+Text GLabel 13750 6500 2    50   BiDi ~ 0
+UOTGID
+Text GLabel 10350 10700 0    50   BiDi ~ 0
+PB15/DAC0
+Text GLabel 10350 10850 0    50   BiDi ~ 0
+PB16/DAC1
+Text GLabel 13750 10100 2    50   BiDi ~ 0
+PC17
+Text GLabel 13750 10250 2    50   BiDi ~ 0
+PC16
+Text GLabel 13750 10400 2    50   BiDi ~ 0
+PC15
+Text GLabel 13750 10550 2    50   BiDi ~ 0
+PC14
+Text GLabel 13750 10700 2    50   BiDi ~ 0
+PC13
+Text GLabel 13750 10850 2    50   BiDi ~ 0
+PC12
+Text GLabel 13750 11000 2    50   BiDi ~ 0
+PC11
+Text GLabel 13750 8600 2    50   BiDi ~ 0
+SPI0_NPCS1
+Text GLabel 13750 4850 2    50   BiDi ~ 0
+PB14/PWMH2
+Text GLabel 13750 5750 2    50   BiDi ~ 0
+PC23_PWML6
+Text GLabel 13750 5900 2    50   BiDi ~ 0
+PC22_PWML5
+Text GLabel 13750 6050 2    50   BiDi ~ 0
+PC21_PWML4
+Text GLabel 13750 6200 2    50   BiDi ~ 0
+PC20_PWMH4
+Text GLabel 13750 8000 2    50   BiDi ~ 0
+PC4_PWML1
+Text GLabel 13750 9800 2    50   BiDi ~ 0
+PC19_PWMH5
+Text GLabel 13750 9950 2    50   BiDi ~ 0
+PC18_PWMH6
+Text GLabel 13750 11150 2    50   BiDi ~ 0
+AD14
+Text GLabel 13750 11300 2    50   BiDi ~ 0
+AD13
+Text GLabel 14850 11450 2    50   BiDi ~ 0
+AD12
+Text GLabel 13750 11600 2    50   BiDi ~ 0
+AD11
+Text GLabel 13750 11750 2    50   BiDi ~ 0
+AD10
+Text GLabel 10350 12050 0    50   BiDi ~ 0
+AD0
+Text GLabel 9650 11000 0    50   BiDi ~ 0
+E1_THERMISTOR
+Text GLabel 10350 4850 0    50   BiDi ~ 0
+RXD0
+Text GLabel 10350 5000 0    50   BiDi ~ 0
+TXD0
+Text GLabel 10350 5450 0    50   BiDi ~ 0
+PA14
+Text GLabel 10350 5600 0    50   BiDi ~ 0
+E1_STOP
+Text GLabel 10350 9950 0    50   BiDi ~ 0
+E1_STEP
+Text GLabel 10350 9200 0    50   BiDi ~ 0
+E1_DIR
+Text GLabel 10350 9350 0    50   BiDi ~ 0
+E1_EN
+Text GLabel 10350 9500 0    50   BiDi ~ 0
+E1_PWM
+Text GLabel 10350 9650 0    50   BiDi ~ 0
+PC7_PWMH2
+Text Label 10650 2900 0    60   ~ 0
+VDDIO
+Text Label 12850 3350 0    60   ~ 0
+VDDCORE
+Text GLabel 12500 13950 2    60   Input ~ 0
+VSSA
+$Comp
+L L_MINI L6
+U 1 1 50FEF250
+P 12250 14100
+F 0 "L6" H 12175 14050 30  0000 C CNN
+F 1 "100Mhz" H 12300 14050 22  0000 C CNN
+F 2 "Melter_Connections:100Mhz_R_0603" H 12250 14100 60  0001 C CNN
+F 3 "" H 12250 14100 60  0001 C CNN
+	1    12250 14100
+	0    -1   -1   0   
+$EndComp
+Text Notes 14300 9000 0    60   ~ 0
+SPI(0)
+Text Notes 14200 12000 0    60   ~ 0
+I2C(1)
+Text GLabel 10350 5150 0    50   BiDi ~ 0
+RXD1
+Text GLabel 10350 5300 0    50   BiDi ~ 0
+TXD1
+Text GLabel 10350 8000 0    50   BiDi ~ 0
+URXD
+Text GLabel 10350 4700 0    50   BiDi ~ 0
+UTXD
+Text GLabel 13750 11900 2    50   BiDi ~ 0
+TWCK1
+Text GLabel 13750 12050 2    50   BiDi ~ 0
+TWD1
+Text GLabel 10350 10100 0    50   Input ~ 0
+SD_CD
+Text GLabel 13750 9350 2    50   BiDi ~ 0
+MCDA0
+Text GLabel 10350 10400 0    50   BiDi ~ 0
+MCCK
+Text GLabel 10350 10550 0    50   BiDi ~ 0
+MCCDA
+Text GLabel 10350 11150 0    50   BiDi ~ 0
+MCDA3
+Text GLabel 10350 11300 0    50   BiDi ~ 0
+MCDA2
+Text GLabel 10350 11450 0    50   BiDi ~ 0
+MCDA1
+$Comp
+L SW_TACT S1
+U 1 1 50F1C331
+P 15350 6000
+F 0 "S1" H 15500 5850 60  0000 C CNN
+F 1 "ERASE" H 15350 6200 60  0000 C CNN
+F 2 "Melter_Connections:SW_SIDE_1" H 15350 6000 60  0001 C CNN
+F 3 "" H 15350 6000 60  0001 C CNN
+	1    15350 6000
+	0    -1   -1   0   
+$EndComp
+Text GLabel 15350 5700 1    60   Input ~ 0
++3.3V
+$Comp
+L C_SMALL C80
+U 1 1 50F1BFA1
+P 9800 12950
+F 0 "C80" H 9825 13025 50  0000 L CNN
+F 1 "10p" H 9800 12875 50  0000 L CNN
+F 2 "Melter_Connections:10pf_capacitor" H 9800 12950 60  0001 C CNN
+F 3 "" H 9800 12950 60  0001 C CNN
+	1    9800 12950
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR058
+U 1 1 50F1BF81
+P 9750 13300
+F 0 "#PWR058" H 9750 13300 30  0001 C CNN
+F 1 "GND" H 9750 13230 30  0001 C CNN
+F 2 "" H 9750 13300 60  0001 C CNN
+F 3 "" H 9750 13300 60  0001 C CNN
+	1    9750 13300
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_SMALL R103
+U 1 1 50F1BF4B
+P 9600 12950
+F 0 "R103" V 9675 12958 50  0000 C CNN
+F 1 "6k8" V 9532 12962 50  0000 C CNN
+F 2 "" H 9600 12950 60  0001 C CNN
+F 3 "" H 9600 12950 60  0001 C CNN
+	1    9600 12950
+	1    0    0    -1  
+$EndComp
+Text GLabel 10350 12900 0    39   BiDi ~ 0
+DFSDP
+Text GLabel 10350 13050 0    39   BiDi ~ 0
+DFSDM
+$Comp
+L R_SMALL R105
+U 1 1 50F1B6A2
+P 9950 7950
+F 0 "R105" V 10025 7958 50  0000 C CNN
+F 1 "100k" V 9882 7962 50  0000 C CNN
+F 2 "Melter_Connections:100k_R_0603" H 9950 7950 60  0001 C CNN
+F 3 "" H 9950 7950 60  0001 C CNN
+	1    9950 7950
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_SMALL R104
+U 1 1 50F1B672
+P 9700 7950
+F 0 "R104" V 9775 7958 50  0000 C CNN
+F 1 "100k" V 9632 7962 50  0000 C CNN
+F 2 "Melter_Connections:100k_R_0603" H 9700 7950 60  0001 C CNN
+F 3 "" H 9700 7950 60  0001 C CNN
+	1    9700 7950
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_SMALL R102
+U 1 1 50F1B65F
+P 9200 7950
+F 0 "R102" V 9275 7958 50  0000 C CNN
+F 1 "100k" V 9132 7962 50  0000 C CNN
+F 2 "Melter_Connections:100k_R_0603" H 9200 7950 60  0001 C CNN
+F 3 "" H 9200 7950 60  0001 C CNN
+	1    9200 7950
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR059
+U 1 1 50F1B3A2
+P 7050 3850
+F 0 "#PWR059" H 7050 3850 30  0001 C CNN
+F 1 "GND" H 7050 3780 30  0001 C CNN
+F 2 "" H 7050 3850 60  0001 C CNN
+F 3 "" H 7050 3850 60  0001 C CNN
+	1    7050 3850
+	1    0    0    -1  
+$EndComp
+Text GLabel 11600 3500 1    50   Input ~ 0
+VDDUTMI
+Text GLabel 11900 3500 1    50   Input ~ 0
+VDDANA
+Text GLabel 11750 3500 1    50   Input ~ 0
+ADVREF
+Text GLabel 8700 3300 2    50   Input ~ 0
+ADVREF
+Text GLabel 7800 3300 2    50   Input ~ 0
+VDDANA
+Text GLabel 6750 3300 2    50   Input ~ 0
+VDDUTMI
+$Comp
+L L_MINI L4
+U 1 1 50F1B1D9
+P 7550 3050
+F 0 "L4" H 7475 3000 30  0000 C CNN
+F 1 "100Mhz" H 7600 3000 22  0000 C CNN
+F 2 "Melter_Connections:100Mhz_R_0603" H 7550 3050 60  0001 C CNN
+F 3 "" H 7550 3050 60  0001 C CNN
+	1    7550 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C74
+U 1 1 50F1B1D8
+P 7700 3450
+F 0 "C74" H 7725 3525 50  0000 L CNN
+F 1 "0u1" H 7700 3375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 7700 3450 60  0001 C CNN
+F 3 "" H 7700 3450 60  0001 C CNN
+	1    7700 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C75
+U 1 1 50F1B031
+P 8300 3450
+F 0 "C75" H 8325 3525 50  0000 L CNN
+F 1 "0u1" H 8300 3375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 8300 3450 60  0001 C CNN
+F 3 "" H 8300 3450 60  0001 C CNN
+	1    8300 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C73
+U 1 1 50F1B030
+P 7400 3450
+F 0 "C73" H 7425 3525 50  0000 L CNN
+F 1 "4u7" H 7400 3375 50  0000 L CNN
+F 2 "Melter_Connections:4uf7_capacitor" H 7400 3450 60  0001 C CNN
+F 3 "" H 7400 3450 60  0001 C CNN
+	1    7400 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L L_MINI L5
+U 1 1 50F1B02F
+P 8450 3050
+F 0 "L5" H 8375 3000 30  0000 C CNN
+F 1 "100Mhz" H 8500 3000 22  0000 C CNN
+F 2 "Melter_Connections:100Mhz_R_0603" H 8450 3050 60  0001 C CNN
+F 3 "" H 8450 3050 60  0001 C CNN
+	1    8450 3050
+	1    0    0    -1  
+$EndComp
+Text Notes 13000 2200 2    50   ~ 0
+VDDPLL
+$Comp
+L GND #PWR060
+U 1 1 50F1AE7F
+P 12900 2750
+F 0 "#PWR060" H 12900 2750 30  0001 C CNN
+F 1 "GND" H 12900 2680 30  0001 C CNN
+F 2 "" H 12900 2750 60  0001 C CNN
+F 3 "" H 12900 2750 60  0001 C CNN
+	1    12900 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L L_MINI L7
+U 1 1 50F1ADDF
+P 12600 2250
+F 0 "L7" H 12525 2200 30  0000 C CNN
+F 1 "100Mhz" H 12650 2200 22  0000 C CNN
+F 2 "Melter_Connections:100Mhz_R_0603" H 12600 2250 60  0001 C CNN
+F 3 "" H 12600 2250 60  0001 C CNN
+	1    12600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C84
+U 1 1 50F1ADC9
+P 13000 2450
+F 0 "C84" H 13025 2525 50  0000 L CNN
+F 1 "0u1" H 13000 2375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 13000 2450 60  0001 C CNN
+F 3 "" H 13000 2450 60  0001 C CNN
+	1    13000 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C83
+U 1 1 50F1ADC8
+P 12800 2450
+F 0 "C83" H 12825 2525 50  0000 L CNN
+F 1 "4u7" H 12800 2375 50  0000 L CNN
+F 2 "Melter_Connections:4uf7_capacitor" H 12800 2450 60  0001 C CNN
+F 3 "MLCC or Tantalum" H 12800 2450 60  0001 C CNN
+	1    12800 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L L_MINI L3
+U 1 1 50F1ACD5
+P 6500 3050
+F 0 "L3" H 6425 3000 30  0000 C CNN
+F 1 "100Mhz" H 6550 3000 22  0000 C CNN
+F 2 "Melter_Connections:100Mhz_R_0603" H 6500 3050 60  0001 C CNN
+F 3 "" H 6500 3050 60  0001 C CNN
+	1    6500 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR061
+U 1 1 50F1AB2F
+P 14400 3250
+F 0 "#PWR061" H 14400 3250 30  0001 C CNN
+F 1 "GND" H 14400 3180 30  0001 C CNN
+F 2 "" H 14400 3250 60  0001 C CNN
+F 3 "" H 14400 3250 60  0001 C CNN
+	1    14400 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C91
+U 1 1 50F1AAC9
+P 15000 3000
+F 0 "C91" H 15025 3075 50  0000 L CNN
+F 1 "0u1" H 15000 2925 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 15000 3000 60  0001 C CNN
+F 3 "" H 15000 3000 60  0001 C CNN
+	1    15000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C89
+U 1 1 50F1AAC6
+P 14500 3000
+F 0 "C89" H 14525 3075 50  0000 L CNN
+F 1 "0u1" H 14500 2925 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 14500 3000 60  0001 C CNN
+F 3 "" H 14500 3000 60  0001 C CNN
+	1    14500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C90
+U 1 1 50F1AAC5
+P 14750 3000
+F 0 "C90" H 14775 3075 50  0000 L CNN
+F 1 "0u1" H 14750 2925 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 14750 3000 60  0001 C CNN
+F 3 "" H 14750 3000 60  0001 C CNN
+	1    14750 3000
+	1    0    0    -1  
+$EndComp
+Text Notes 14350 2850 2    50   ~ 0
+VDDCORE
+Text Notes 9500 3250 2    50   ~ 0
+VDDIO
+Text Notes 6050 3250 2    50   ~ 0
+VDDIN
+$Comp
+L C_SMALL C71
+U 1 1 50F1A997
+P 6350 3450
+F 0 "C71" H 6375 3525 50  0000 L CNN
+F 1 "4u7" H 6350 3375 50  0000 L CNN
+F 2 "Melter_Connections:4uf7_capacitor" H 6350 3450 60  0001 C CNN
+F 3 "" H 6350 3450 60  0001 C CNN
+	1    6350 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C72
+U 1 1 50F1A992
+P 6650 3450
+F 0 "C72" H 6675 3525 50  0000 L CNN
+F 1 "0u1" H 6650 3375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 6650 3450 60  0001 C CNN
+F 3 "" H 6650 3450 60  0001 C CNN
+	1    6650 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C69
+U 1 1 50F1A935
+P 5850 3450
+F 0 "C69" H 5875 3525 50  0000 L CNN
+F 1 "10u" H 5850 3375 50  0000 L CNN
+F 2 "Melter_Connections:10mf_capacitor" H 5850 3450 60  0001 C CNN
+F 3 "MLCC or Tantalum" H 5850 3450 60  0001 C CNN
+	1    5850 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C85
+U 1 1 50F1A8A0
+P 13600 3000
+F 0 "C85" H 13625 3075 50  0000 L CNN
+F 1 "4u7" H 13600 2925 50  0000 L CNN
+F 2 "Melter_Connections:4uf7_capacitor" H 13600 3000 60  0001 C CNN
+F 3 "MLCC or Tantalum" H 13600 3000 60  0001 C CNN
+	1    13600 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C86
+U 1 1 50F1A84E
+P 13800 3000
+F 0 "C86" H 13825 3075 50  0000 L CNN
+F 1 "0u1" H 13800 2925 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 13800 3000 60  0001 C CNN
+F 3 "" H 13800 3000 60  0001 C CNN
+	1    13800 3000
+	1    0    0    -1  
+$EndComp
+NoConn ~ 13750 13050
+Text GLabel 9150 8850 0    60   BiDi ~ 0
+RESET
+Text GLabel 13750 13500 2    60   BiDi ~ 0
+NRST
+Text GLabel 16000 12600 2    60   BiDi ~ 0
+RESET
+Text GLabel 15550 12000 1    60   Input ~ 0
++3.3V
+Text GLabel 8150 7550 1    60   Input ~ 0
++3.3V
+NoConn ~ 8150 8550
+$Comp
+L GND #PWR062
+U 1 1 50F13953
+P 13950 13250
+F 0 "#PWR062" H 13950 13250 30  0001 C CNN
+F 1 "GND" H 13950 13180 30  0001 C CNN
+F 2 "" H 13950 13250 60  0001 C CNN
+F 3 "" H 13950 13250 60  0001 C CNN
+	1    13950 13250
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR063
+U 1 1 50F1392E
+P 13950 12500
+F 0 "#PWR063" H 13950 12500 30  0001 C CNN
+F 1 "GND" H 13950 12430 30  0001 C CNN
+F 2 "" H 13950 12500 60  0001 C CNN
+F 3 "" H 13950 12500 60  0001 C CNN
+	1    13950 12500
+	1    0    0    -1  
+$EndComp
+NoConn ~ 13750 12900
+NoConn ~ 13750 12750
+NoConn ~ 13750 13350
+$Comp
+L C_SMALL C92
+U 1 1 509ADAE1
+P 15550 12300
+F 0 "C92" H 15575 12375 50  0000 L CNN
+F 1 "0u01" H 15550 12225 50  0000 L CNN
+F 2 "" H 15550 12300 60  0001 C CNN
+F 3 "" H 15550 12300 60  0001 C CNN
+	1    15550 12300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SW_TACT S2
+U 1 1 5075E99F
+P 15350 13100
+F 0 "S2" H 15500 12950 60  0000 C CNN
+F 1 "RESET" H 15350 13300 60  0000 C CNN
+F 2 "Melter_Connections:SW_SIDE_1" H 15350 13100 60  0001 C CNN
+F 3 "" H 15350 13100 60  0001 C CNN
+	1    15350 13100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C_SMALL C77
+U 1 1 50657171
+P 9200 4850
+F 0 "C77" H 9225 4925 50  0000 L CNN
+F 1 "10p" H 9200 4775 50  0000 L CNN
+F 2 "Melter_Connections:10pf_capacitor" H 9200 4850 60  0001 C CNN
+F 3 "" H 9200 4850 60  0001 C CNN
+	1    9200 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C76
+U 1 1 5065716C
+P 8350 4850
+F 0 "C76" H 8375 4925 50  0000 L CNN
+F 1 "10p" H 8350 4775 50  0000 L CNN
+F 2 "Melter_Connections:10pf_capacitor" H 8350 4850 60  0001 C CNN
+F 3 "" H 8350 4850 60  0001 C CNN
+	1    8350 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C87
+U 1 1 50657150
+P 14000 3000
+F 0 "C87" H 14025 3075 50  0000 L CNN
+F 1 "0u1" H 14000 2925 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 14000 3000 60  0001 C CNN
+F 3 "" H 14000 3000 60  0001 C CNN
+	1    14000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C70
+U 1 1 5065714E
+P 6100 3450
+F 0 "C70" H 6125 3525 50  0000 L CNN
+F 1 "0u1" H 6100 3375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 6100 3450 60  0001 C CNN
+F 3 "" H 6100 3450 60  0001 C CNN
+	1    6100 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C81
+U 1 1 50657145
+P 9950 3450
+F 0 "C81" H 9975 3525 50  0000 L CNN
+F 1 "0u1" H 9950 3375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 9950 3450 60  0001 C CNN
+F 3 "" H 9950 3450 60  0001 C CNN
+	1    9950 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C82
+U 1 1 50657143
+P 10250 3450
+F 0 "C82" H 10275 3525 50  0000 L CNN
+F 1 "0u1" H 10250 3375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 10250 3450 60  0001 C CNN
+F 3 "" H 10250 3450 60  0001 C CNN
+	1    10250 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C79
+U 1 1 5065713D
+P 9650 3450
+F 0 "C79" H 9675 3525 50  0000 L CNN
+F 1 "0u1" H 9650 3375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 9650 3450 60  0001 C CNN
+F 3 "" H 9650 3450 60  0001 C CNN
+	1    9650 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_SMALL C78
+U 1 1 50657104
+P 9350 3450
+F 0 "C78" H 9375 3525 50  0000 L CNN
+F 1 "0u1" H 9350 3375 50  0000 L CNN
+F 2 "Melter_Connections:0mf1_capacitor" H 9350 3450 60  0001 C CNN
+F 3 "" H 9350 3450 60  0001 C CNN
+	1    9350 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_JTAG J23
+U 1 1 505F8BB9
+P 8650 8450
+F 0 "J23" H 8650 8150 50  0000 C CNN
+F 1 "JTAG" H 8650 8750 35  0000 C CNN
+F 2 "" H 8650 8450 60  0001 C CNN
+F 3 "" H 8650 8450 60  0001 C CNN
+	1    8650 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR064
+U 1 1 505DBB16
+P 11600 14450
+F 0 "#PWR064" H 11600 14450 30  0001 C CNN
+F 1 "GND" H 11600 14380 30  0001 C CNN
+F 2 "" H 11600 14450 60  0001 C CNN
+F 3 "" H 11600 14450 60  0001 C CNN
+	1    11600 14450
+	1    0    0    -1  
+$EndComp
+Text GLabel 10350 11900 0    39   Input ~ 0
+Z_STOP
+Text GLabel 10350 6350 0    39   Input ~ 0
+Y_STOP
+Text GLabel 13750 5450 2    39   Output ~ 0
+Z_STEP
+Text GLabel 13750 5300 2    39   Output ~ 0
+Z_DIR
+Text GLabel 10350 9800 0    50   Output ~ 0
+E0_PWM
+Text GLabel 10350 9050 0    50   Output ~ 0
+FAN0_PWM
+Text GLabel 13750 5600 2    50   Output ~ 0
+BED_PWM
+Text GLabel 13750 7400 2    39   Input ~ 0
+ENET_RXD0
+Text GLabel 13750 7550 2    39   Input ~ 0
+ENET_CRS
+Text GLabel 13750 8300 2    39   Output ~ 0
+ENET_TX_EN
+Text GLabel 9650 11600 0    50   Input ~ 0
+E0_THERMISTOR
+Text GLabel 10350 12600 0    39   Input ~ 0
+VBUS
+Text GLabel 10350 7700 0    39   Output ~ 0
+E0_EN
+Text GLabel 10350 7550 0    39   Output ~ 0
+E0_DIR
+Text GLabel 10350 7400 0    39   Output ~ 0
+E0_STEP
+Text GLabel 10350 6800 0    39   Output ~ 0
+X_EN
+Text GLabel 10350 6650 0    39   Output ~ 0
+X_DIR
+Text GLabel 10350 6500 0    39   Output ~ 0
+X_STEP
+Text GLabel 10350 6200 0    39   Output ~ 0
+Y_EN
+Text GLabel 10350 6050 0    39   Output ~ 0
+Y_DIR
+Text GLabel 10350 5900 0    39   Output ~ 0
+Y_STEP
+Text GLabel 13750 5150 2    39   Output ~ 0
+Z_EN
+Text GLabel 13750 6800 2    39   BiDi ~ 0
+ENET_MDIO
+Text GLabel 13750 6950 2    39   Output ~ 0
+ENET_MDC
+Text GLabel 13750 8450 2    39   Input ~ 0
+ENET_REF_CLK
+Text GLabel 13750 7100 2    39   Input ~ 0
+ENET_RX_ER
+Text GLabel 13750 7250 2    39   Input ~ 0
+ENET_RXD1
+Text GLabel 13750 7700 2    39   Output ~ 0
+ENET_TXD1
+Text GLabel 13750 8150 2    39   Output ~ 0
+ENET_TXD0
+Text GLabel 10350 7850 0    39   Input ~ 0
+E0_STOP
+Text GLabel 10350 6950 0    39   Input ~ 0
+X_STOP
+Text GLabel 10350 12450 0    39   BiDi ~ 0
+DHSDM
+Text GLabel 10350 12300 0    39   BiDi ~ 0
+DHSDP
+Text GLabel 10350 10250 0    50   BiDi ~ 0
+TWCK0
+Text GLabel 10350 5750 0    50   BiDi ~ 0
+TWD0
+Text GLabel 9650 11750 0    50   Input ~ 0
+BED_THERMISTOR
+Text GLabel 13750 9050 2    50   BiDi ~ 0
+SPI0_MOSI
+Text GLabel 13750 9200 2    50   BiDi ~ 0
+SPI0_MISO
+Text GLabel 13750 8750 2    50   BiDi ~ 0
+SPI0_NPCS0
+Text GLabel 13750 8900 2    50   BiDi ~ 0
+SPI0_SPCK
+$Comp
+L GND #PWR065
+U 1 1 5057A432
+P 15350 13600
+F 0 "#PWR065" H 15350 13600 30  0001 C CNN
+F 1 "GND" H 15350 13530 30  0001 C CNN
+F 2 "" H 15350 13600 60  0001 C CNN
+F 3 "" H 15350 13600 60  0001 C CNN
+	1    15350 13600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR066
+U 1 1 50579E73
+P 8100 8700
+F 0 "#PWR066" H 8100 8700 30  0001 C CNN
+F 1 "GND" H 8100 8630 30  0001 C CNN
+F 2 "" H 8100 8700 60  0001 C CNN
+F 3 "" H 8100 8700 60  0001 C CNN
+	1    8100 8700
+	1    0    0    -1  
+$EndComp
+Text GLabel 11550 2650 1    60   Input ~ 0
++3.3V
+$Comp
+L GND #PWR067
+U 1 1 5057957F
+P 8800 5350
+F 0 "#PWR067" H 8800 5350 30  0001 C CNN
+F 1 "GND" H 8800 5280 30  0001 C CNN
+F 2 "" H 8800 5350 60  0001 C CNN
+F 3 "" H 8800 5350 60  0001 C CNN
+	1    8800 5350
+	1    0    0    -1  
+$EndComp
+NoConn ~ 10350 8900
+NoConn ~ 13750 6650
+Text GLabel 10350 7250 0    28   Input ~ 0
+PD9
+Text GLabel 13750 9650 2    28   Input ~ 0
+PC29
+Text GLabel 13750 9500 2    28   Input ~ 0
+PC30
+Text GLabel 13750 5000 2    28   Input ~ 0
+PC28
+Text GLabel 13750 4700 2    59   Input ~ 0
+PB22
+Text GLabel 13750 4550 2    59   Input ~ 0
+PB23
+Text GLabel 13750 4400 2    59   Input ~ 0
+PB24
+$Comp
+L R R106
+U 1 1 55674A00
+P 10000 11000
+F 0 "R106" V 10080 11000 50  0000 C CNN
+F 1 "10K" V 10000 11000 50  0000 C CNN
+F 2 "Melter_Connections:10k_R_0603" H 10000 11000 60  0001 C CNN
+F 3 "" H 10000 11000 60  0001 C CNN
+	1    10000 11000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10350 11000 10250 11000
+Wire Wire Line
+	9750 11000 9650 11000
+$EndSCHEMATC
