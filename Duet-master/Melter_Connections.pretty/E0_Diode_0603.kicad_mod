@@ -1,7 +1,7 @@
-(module E0_Diode_0603 (layer F.Cu) (tedit 55C8EDD8)
+(module E0_Diode_0603 (layer F.Cu) (tedit 55C9CB22)
   (attr smd)
-  (fp_text reference "" (at 0.27 1.46) (layer F.SilkS) hide
-    (effects (font (size 0.59944 0.59944) (thickness 0.09906)))
+  (fp_text reference D19 (at -0.00508 0.0254 90) (layer F.SilkS) hide
+    (effects (font (size 0.4 0.4) (thickness 0.09906)))
   )
   (fp_text value "E0 Heat" (at 0.13716 -1.2192) (layer F.SilkS)
     (effects (font (size 0.59944 0.59944) (thickness 0.09906)))

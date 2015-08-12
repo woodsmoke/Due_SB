@@ -1,9 +1,6 @@
-update=09/08/2015 20:25:22
+update=10/08/2015 21:59:12
 version=1
 last_client=kicad
-[cvpcb]
-version=1
-NetIExt=net
 [pcbnew]
 version=1
 LastNetListRead=Duet0.85.net
@@ -23,13 +20,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.381000000000
 ModuleOutlineThickness=0.127000000000
-[pcbnew/libraries]
-LibDir=
-LibName1=Duet_logo_text_conv
-LibName2=connect
-LibName3=FE Footprints
-LibName4=RA_switch
-LibName5=A4982_thin_pads
 [eeschema]
 version=1
 LibDir=./
@@ -68,3 +58,6 @@ LibName31=valves
 LibName32=FE
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
