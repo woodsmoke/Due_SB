@@ -1324,8 +1324,6 @@ Wire Wire Line
 Wire Wire Line
 	3300 3900 3550 3900
 Wire Wire Line
-	2550 9450 3550 9450
-Wire Wire Line
 	2550 7650 3550 7650
 Wire Wire Line
 	2550 7350 3550 7350
@@ -1333,10 +1331,6 @@ Wire Wire Line
 	3300 6300 3550 6300
 Wire Wire Line
 	3300 6000 3550 6000
-Wire Wire Line
-	3300 5400 3550 5400
-Wire Wire Line
-	3300 5100 3550 5100
 Wire Wire Line
 	3300 4800 3550 4800
 Wire Wire Line
@@ -1352,10 +1346,6 @@ Wire Wire Line
 Wire Wire Line
 	2550 4950 3550 4950
 Wire Wire Line
-	2550 5250 3550 5250
-Wire Wire Line
-	2550 5550 3550 5550
-Wire Wire Line
 	2550 5850 3550 5850
 Wire Wire Line
 	2550 6150 3550 6150
@@ -1367,8 +1357,6 @@ Wire Wire Line
 	3300 7200 3550 7200
 Wire Wire Line
 	3300 7500 3550 7500
-Wire Wire Line
-	3300 9300 3550 9300
 Wire Wire Line
 	2550 7050 3550 7050
 Wire Wire Line
