@@ -582,7 +582,7 @@ PC21_PWML4
 Text GLabel 13750 6200 2    50   BiDi ~ 0
 PC20_PWMH4
 Text GLabel 13750 8000 2    50   BiDi ~ 0
-PC4_PWML1
+FAN1_PWM
 Text GLabel 13750 9800 2    50   BiDi ~ 0
 PC19_PWMH5
 Text GLabel 13750 9950 2    50   BiDi ~ 0
@@ -618,7 +618,7 @@ E1_EN
 Text GLabel 10350 9500 0    50   BiDi ~ 0
 E1_PWM
 Text GLabel 10350 9650 0    50   BiDi ~ 0
-PC7_PWMH2
+E2_STOP
 Text Label 10650 2900 0    60   ~ 0
 VDDIO
 Text Label 12850 3350 0    60   ~ 0

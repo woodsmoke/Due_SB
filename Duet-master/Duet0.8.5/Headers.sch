@@ -453,8 +453,6 @@ Text GLabel 6550 9000 0    60   Input ~ 0
 PC7_PWMH2
 Text GLabel 6550 8850 0    60   Input ~ 0
 E1_PWM
-Text GLabel 7000 8850 2    60   Input ~ 0
-E1_STOP
 Text GLabel 7000 9000 2    60   Input ~ 0
 E2_STOP
 $Comp
@@ -1083,10 +1081,6 @@ Wire Wire Line
 Wire Wire Line
 	6800 4650 6500 4650
 Wire Wire Line
-	7000 9000 6550 9000
-Wire Wire Line
-	7000 8850 6550 8850
-Wire Wire Line
 	11800 4450 11800 9300
 Wire Wire Line
 	6550 8700 7000 8700
@@ -1255,8 +1249,6 @@ Wire Wire Line
 	3250 6600 3550 6600
 Wire Wire Line
 	3550 5700 3250 5700
-Wire Wire Line
-	7000 9150 6550 9150
 Wire Wire Line
 	2550 4350 3550 4350
 Wire Wire Line
@@ -1442,4 +1434,6 @@ Connection ~ 12850 9200
 Wire Wire Line
 	13100 5900 11800 5900
 Connection ~ 11800 5900
+Text GLabel 7000 8850 2    60   Input ~ 0
+E1_STOP
 $EndSCHEMATC
